@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{F1C458B6-09CA-4B9D-AF47-71E32F75CB1C}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\users\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C458B6-09CA-4B9D-AF47-71E32F75CB1C}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\leandro\\source\\repos\\techlibrary\\techlibrary.api\\techlibrary.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F1C458B6-09CA-4B9D-AF47-71E32F75CB1C}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\techlibrary.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{43E59CD6-DF03-4AEF-9AA4-06CB81192E25}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\leandro\\source\\repos\\techlibrary\\techlibrary.communication\\responses\\responseregistereduserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E59CD6-DF03-4AEF-9AA4-06CB81192E25}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\responses\\responseregistereduserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1C458B6-09CA-4B9D-AF47-71E32F75CB1C}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\leandro\\source\\repos\\techlibrary\\techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1C458B6-09CA-4B9D-AF47-71E32F75CB1C}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43E59CD6-DF03-4AEF-9AA4-06CB81192E25}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\leandro\\source\\repos\\techlibrary\\techlibrary.communication\\responses\\responseregistereduserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43E59CD6-DF03-4AEF-9AA4-06CB81192E25}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\responses\\responseregistereduserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43E59CD6-DF03-4AEF-9AA4-06CB81192E25}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\leandro\\source\\repos\\techlibrary\\techlibrary.communication\\requests\\requestuserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,41 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RegisterUSerUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\leandro\\source\\repos\\TechLibrary\\TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUSerUseCase.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUSerUseCase.cs",
-              "ToolTip": "C:\\Users\\leandro\\source\\repos\\TechLibrary\\TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUSerUseCase.cs",
-              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUSerUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "RegisterUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\leandro\\source\\repos\\TechLibrary\\TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "ToolTip": "C:\\Users\\leandro\\source\\repos\\TechLibrary\\TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T16:29:50.769Z",
+              "WhenOpened": "2025-02-28T03:06:24.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TechLibrary.Api",
-              "DocumentMoniker": "C:\\Users\\leandro\\source\\repos\\TechLibrary\\TechLibrary.Api\\TechLibrary.Api.csproj",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\TechLibrary.Api.csproj",
-              "ToolTip": "C:\\Users\\leandro\\source\\repos\\TechLibrary\\TechLibrary.Api\\TechLibrary.Api.csproj",
-              "RelativeToolTip": "TechLibrary.Api\\TechLibrary.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-25T16:28:27.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ResponseRegisteredUserJson.cs",
               "DocumentMoniker": "C:\\Users\\leandro\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseRegisteredUserJson.cs",
               "RelativeDocumentMoniker": "TechLibrary.Communication\\Responses\\ResponseRegisteredUserJson.cs",
               "ToolTip": "C:\\Users\\leandro\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseRegisteredUserJson.cs",
               "RelativeToolTip": "TechLibrary.Communication\\Responses\\ResponseRegisteredUserJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T16:20:10.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T16:20:10.928Z"
             },
             {
               "$type": "Document",
@@ -79,14 +61,13 @@
               "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\leandro\\source\\repos\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
               "RelativeToolTip": "TechLibrary.Api\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T16:12:28.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T16:12:28.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "RequestUserJson.cs",
               "DocumentMoniker": "C:\\Users\\leandro\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Requests\\RequestUserJson.cs",
               "RelativeDocumentMoniker": "TechLibrary.Communication\\Requests\\RequestUserJson.cs",
@@ -94,8 +75,7 @@
               "RelativeToolTip": "TechLibrary.Communication\\Requests\\RequestUserJson.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T16:04:22.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T16:04:22.199Z"
             }
           ]
         }

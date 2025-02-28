@@ -1,7 +1,15 @@
-﻿namespace TechLibrary.Api.UseCases.Users.Register
+﻿using TechLibrary.Communication.Requests;
+using TechLibrary.Communication.Responses;
+
+namespace TechLibrary.Api.UseCases.Users.Register
 {
-    public class RegisterUSerUseCase
+    public class RegisterUserUseCase
     {
-         
+        public ResponseRegisteredUserJson Execute(RequestUserJson request)
+        {
+
+
+            return new ResponseRegisteredUserJson { };
+        }
     }
 }
