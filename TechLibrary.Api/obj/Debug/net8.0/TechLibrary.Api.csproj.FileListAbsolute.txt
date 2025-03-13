@@ -30,3 +30,6 @@ C:\Users\leandro\source\repos\TechLibrary\TechLibrary.Api\obj\Debug\net8.0\refin
 C:\Users\leandro\source\repos\TechLibrary\TechLibrary.Api\obj\Debug\net8.0\TechLibrary.Api.pdb
 C:\Users\leandro\source\repos\TechLibrary\TechLibrary.Api\obj\Debug\net8.0\TechLibrary.Api.genruntimeconfig.cache
 C:\Users\leandro\source\repos\TechLibrary\TechLibrary.Api\obj\Debug\net8.0\ref\TechLibrary.Api.dll
+C:\Users\leandro\source\repos\TechLibrary\TechLibrary.Api\bin\Debug\net8.0\TechLibrary.Communication.dll
+C:\Users\leandro\source\repos\TechLibrary\TechLibrary.Api\bin\Debug\net8.0\TechLibrary.Communication.pdb
+C:\Users\leandro\source\repos\TechLibrary\TechLibrary.Api\obj\Debug\net8.0\TechLibrary.Api.sourcelink.json

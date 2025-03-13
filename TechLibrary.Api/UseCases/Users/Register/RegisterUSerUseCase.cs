@@ -9,7 +9,10 @@ namespace TechLibrary.Api.UseCases.Users.Register
         {
 
 
-            return new ResponseRegisteredUserJson { };
+            return new ResponseRegisteredUserJson             
+            { 
+
+            };
         }
     }
 }
